@@ -2,7 +2,7 @@
 
 A complete end-to-end Machine Learning web application built with Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-data-trainer-database-using-app-bifajunxnbstryzcha7mfb.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rajneeshmltrainer.streamlit.app/)
 
 ## Features
 
